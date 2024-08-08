@@ -1,7 +1,5 @@
 # Planet Disease Classifier
 
-# Planet Disease Classifier
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
